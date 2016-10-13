@@ -1,4 +1,4 @@
-package java.basics;
+package practice.basics;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
